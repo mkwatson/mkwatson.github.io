@@ -1,0 +1,10 @@
+# Site settings
+title: "Mark Watson's Personal Blog"
+email: mark@datasnap.io
+description: "Mark Watson's personal blog!"
+url: "http://mkwatson.github.io"
+twitter_username: Mark_Kettner
+github_username:  mkwatson
+
+# Build settings
+markdown: kramdown
